@@ -5,6 +5,8 @@
 ### What do I do?
 🌱I am currently learning Python, R and SQL for Machine Learning and Big Data analysis.
 
+I am also uploading some projects regarding data visualization, ML models and data analytics so stay tuned :).
+
 ### Interest
 🔭My primary interests rely on public policy formulation and evaluation. I'm also interested in real life applications of Machine Learning models
 
