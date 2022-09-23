@@ -4,12 +4,12 @@
 ✨My name is Mateo Contreras and I am an economics student from Los Andes University. 
 
 ### What do I do?
-🌱I am currently learning Python, R and SQL for Machine Learning and Big Data analysis.
+🌱I am currently learning Python, R, power BI and SQL for Machine Learning and Big Data analysis.
 
-I am also uploading some projects regarding data visualization, ML models and data analytics so stay tuned :).
 
 ### Interest
-🔭My primary interests rely on public policy formulation and evaluation. I'm also interested in real life applications of Machine Learning models to provide valuable insights about the project.
+🔭My primary interests rely on data analysis and the implementation of Machine Learning models to provide valuable insights.
+
 
 
 <!--
