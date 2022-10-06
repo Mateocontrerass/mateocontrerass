@@ -4,11 +4,11 @@
 
 
 ## Interest
-🔭 I am urrently exploring Machine Learning algorithms.
+🔭 I am urrently exploring Machine Learning algorithms 🤖.
 
 :seedling: Also improving my dexterity in R and Python :snake: . Also learning SQL.
 
-:blue_book: I want to learn Cloud computing such as Azure ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) and AWS.
+:blue_book: I want to learn Cloud computing ☁️ such as Azure and AWS.
 
 ## Tech & Tools Preference
   
@@ -18,7 +18,8 @@
 
 ## Contact Info
 
-	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  As [Mateo Contreras](https://www.linkedin.com/in/mateocontreras/)
   
-  
+  📫 mateocontrerassilva@outlook.com
   
