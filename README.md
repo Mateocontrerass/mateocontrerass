@@ -1,30 +1,24 @@
-###  :hammer: WIP :hammer:
 
 # Hi there 👋
-✨My name is Mateo Contreras and I am an economics student from Los Andes University. 
-
-### What do I do?
-🌱I am currently learning Python, R, power BI and SQL for Machine Learning and Big Data analysis.
+✨ My name is Mateo Contreras and I am an economics student from Los Andes University. I am looking forward to enter the Data Analytics industry to provide useful insights through KPIs, data pattern exploring and data visualization with my Design Thinking skills.
 
 
-### Interest
-🔭My primary interests rely on data analysis and the implementation of Machine Learning models to provide valuable insights.
+## Interest
+🔭 I am urrently exploring Machine Learning algorithms.
 
+:seedling: Also improving my dexterity in R and Python :snake: . Also learning SQL.
 
+:blue_book: I want to learn Cloud computing such as Azure ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) and AWS.
 
-<!--
-**Mateocontrerass/mateocontrerass** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech & Tools Preference
+  
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Here are some ideas to get you started:
+## Contact Info
 
--  I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
+  
+  
+  
