@@ -6,7 +6,7 @@
 ## Interest
 🔭 I am urrently exploring Machine Learning algorithms 🤖.
 
-:seedling: Also improving my dexterity in R and Python :snake: . Also learning SQL.
+:seedling: I am also improving my dexterity in R and Python :snake: and learning SQL.
 
 :blue_book: I want to learn Cloud computing ☁️ such as Azure and AWS.
 
