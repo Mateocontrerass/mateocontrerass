@@ -4,7 +4,7 @@
 
 
 ## Interest
-🔭 I am currently exploring Machine Learning algorithms 🤖.
+🔭 I am currently learning and implementing Machine Learning algorithms 🤖 such as Random Forests, LM, XGBoost, (...).
 
 :seedling: I am also improving my dexterity in R and Python :snake: and learning SQL.
 
