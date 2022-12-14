@@ -1,6 +1,6 @@
 
 # Hi there 👋
-✨ My name is Mateo Contreras and I am an economics student from Los Andes University. I am looking forward to enter the Data Analytics industry to provide useful insights through KPIs, data pattern exploring and data visualization with my Design Thinking skills.
+✨ My name is Mateo Contreras and I am an economist from Los Andes University currently working as a Jr. Data Analyst at Davivienda Bank. I am looking forward to continue growing in the Data Analytics industry as i think it is key to provide useful insights through KPIs, data pattern exploring and data visualization.
 
 
 ## Interest
