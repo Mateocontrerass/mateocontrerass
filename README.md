@@ -7,7 +7,7 @@
 
 
 # Heyy  👋
-✨ My name is Mateo Contreras and I am an economist from Los Andes University currently working as a Jr. Data Analyst at Davivienda Bank. I am looking forward to continue growing in the Data Analytics industry as i think it is key to provide useful insights through KPIs, data pattern exploring and data visualization.
+✨ My name is Mateo Contreras and I am an economist from Los Andes University currently working as a Jr. Data Analyst at Davivienda Bank. I am looking forward to continue growing in the Business Intelligence industry as i think it is key to provide useful insights through KPIs, data exploring and data visualization.
 
 
 ## Interest
