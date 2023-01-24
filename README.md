@@ -30,6 +30,7 @@
 
 ## Contact Info
 mateocontrerassilva@outlook.com
+  
 www.linkedin.com/in/mateocontreras
 
  <img src="https://komarev.com/ghpvc/?username=mateocontrerass&style=flat-square&color=blue" alt=""/>
