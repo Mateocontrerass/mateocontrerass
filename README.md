@@ -6,9 +6,9 @@
 ## Interest
 🔭 I am currently learning and implementing Machine Learning algorithms 🤖 such as Random Forests, LM, XGBoost, (...).
 
-:seedling: I am also improving my dexterity in R and Python :snake: and learning SQL. I would like to learn C++ too as it is a faster programming language for big data management.
+:seedling: I am also improving my dexterity in R and Python :snake: and learning SQL. 
 
-:blue_book: I want to learn Cloud computing ☁️ such as Azure and AWS.
+:blue_book: I am also interested in Cloud computing and the deployment of Machine Learning models.
 
 ## Tech & Tools Preference
   
