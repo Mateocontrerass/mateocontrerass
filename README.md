@@ -17,7 +17,7 @@
 
 
 ## Interest
-🔭 I am currently learning and implementing Machine Learning and Deep Learning.
+🔭 I am currently learning and implementing Machine Learning and Deep Learning models.
 
 :seedling: I usually work with Python, R and SQL.
 
