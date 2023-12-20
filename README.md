@@ -12,31 +12,35 @@ I'm Mateo Contreras, an economist with a passion for data science and a knack fo
 
 
 ## 🚀 What I Bring to the Table:
-- Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
-- Experienced in data modeling, process automation, and KPI improvement pilots.
-- Actively pursuing the IBM Data Science Professional Certificate.
-- Certified Kaggle Intro to Deep Learning and Coursera's Working with Big Query.
+Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
+
+Experienced in data modeling, process automation, and KPI improvement pilots.
+
+Certified Kaggle Intro to Deep Learning and Coursera's Working with Big Query.
 
 ## 🔧 Tech Toolbox:
-- TensorFlow, Keras, Scikit-learn for ML.
-- R's caret package for robust analysis.
-- SQL and SAS for data manipulation.
-- Actively learning and implementing new methodologies for machine learning applications.
+TensorFlow, Keras, Scikit-learn for ML.
+
+R's caret package for robust analysis.
+
+SQL and SAS for data manipulation.
+
+Actively learning and implementing new methodologies for machine learning applications.
 
 ## 🌐 Where to Find Me:
-- [Portfolio Website](https://mateocontreras.onrender.com/)
-- [LinkedIn](https://www.linkedin.com/in/mateocontreras/)
-- [Kaggle Profile](your-kaggle-profile)
+[Portfolio Website](https://mateocontreras.onrender.com/)
+
+[LinkedIn](https://www.linkedin.com/in/mateocontreras/)
 
 ## 📚 What's Next:
-- Always exploring, always learning. Currently diving deep into the IBM Data Science Professional Certificate.
+Always exploring, always learning. Currently diving deep into the IBM Data Science Professional Certificate.
 
 ## 💬 Let's Connect:
-- Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
+Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
 
 Excited to be part of the data-driven journey! Let's code something amazing together. 🚀
 
-
+## Some cool badges
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
