@@ -43,33 +43,32 @@ www.linkedin.com/in/mateocontreras
 
 
 
-👋 Hello, World!
+# 👋 Hello, World!
 
 I'm Mateo Contreras, an economist with a passion for data science and a knack for coding. Armed with a degree from Universidad de los Andes and a minor in public policy, I've transitioned into the realm of data analysis and am now laser-focused on mastering the art of data science.
 
-🚀 What I Bring to the Table:
+## 🚀 What I Bring to the Table:
+- Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
+- Experienced in data modeling, process automation, and KPI improvement pilots.
+- Actively pursuing the IBM Data Science Professional Certificate.
+- Certified Kaggle Intro to Deep Learning and Coursera's Working with Big Query.
 
--Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
--Experienced in data modeling, process automation, and KPI improvement pilots.
--Actively pursuing the IBM Data Science Professional Certificate.
--Certified Kaggle Intro to Deep Learning and Coursera's Working with Big Query.
-🔧 Tech Toolbox:
--TensorFlow, Keras, Scikit-learn for ML.
--R's caret package for robust analysis.
--SQL and SAS for data manipulation.
--Actively learning and implementing new methodologies for machine learning applications.
-🌐 Where to Find Me:
+## 🔧 Tech Toolbox:
+- TensorFlow, Keras, Scikit-learn for ML.
+- R's caret package for robust analysis.
+- SQL and SAS for data manipulation.
+- Actively learning and implementing new methodologies for machine learning applications.
 
-Portfolio Website
-LinkedIn
-(Website)[mateocontreras.onrender.com]
+## 🌐 Where to Find Me:
+- [Portfolio Website](https://mateocontreras.onrender.com/)
+- [LinkedIn](https://www.linkedin.com/in/mateocontreras/)
+- [Kaggle Profile](your-kaggle-profile)
 
-📚 What's Next:
+## 📚 What's Next:
+- Always exploring, always learning. Currently diving deep into the IBM Data Science Professional Certificate.
 
-Always exploring, always learning. Currently diving deep into the IBM Data Science Professional Certificate.
-💬 Let's Connect:
+## 💬 Let's Connect:
+- Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
 
-Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
 Excited to be part of the data-driven journey! Let's code something amazing together. 🚀
-
 
