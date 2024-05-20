@@ -8,7 +8,7 @@
 
 # 👋 Hello, World!
 
-I'm Mateo Contreras, an economist with a passion for data science and a knack for coding. Armed with a degree from Universidad de los Andes and a minor in public policy, I've transitioned into the realm of data analysis and am now laser-focused on mastering the art of data science.
+I'm Mateo Contreras, an economist with a passion for data science and a knack for coding. Armed with a degree from Universidad de los Andes and a minor in public policy, I've transitioned into the realm of data analysis and now I am focused on mastering the art of data science.
 
 
 ## 🚀 What I Bring to the Table:
@@ -28,7 +28,7 @@ SQL and SAS for data manipulation.
 Actively learning and implementing new methodologies for machine learning applications.
 
 ## 🌐 Where to Find Me:
-[Portfolio Website](https://mateocontreras.onrender.com/)
+[Portfolio Website](https://mateocontrerass.github.io/)
 
 [LinkedIn](https://www.linkedin.com/in/mateocontreras/)
 
