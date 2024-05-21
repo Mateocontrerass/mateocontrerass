@@ -12,9 +12,16 @@ I'm Mateo Contreras, an economist with a passion for data science and an interes
 
 
 ## 🚀 What I Bring to the Table:
-Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
 
-Experienced in data modeling, process automation, and data modelling.
+**Data processing and Analytics:** Jupyter Notebooks, Numpy and Pandas.
+
+**Development:** Python, R and Git.
+
+**Data Visualization:** Seaborn and Matplotlib.
+
+**Machine Learning Deployment:** Streamlit.
+
+**Machine Learning Modeling:** Classification, Regression, and diving into Neural Networks.
 
 Just finished IBM's Professional Data Science Certificate!
 
