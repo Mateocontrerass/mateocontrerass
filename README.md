@@ -17,7 +17,7 @@ I'm Mateo Contreras, an economist with a passion for data science and an interes
 
 **Development:** Python, R and Git.
 
-**Data Visualization:** Seaborn and Matplotlib.
+**Data Visualization:** Seaborn, Matplotlib, Power BI and Looker Studio.
 
 **Machine Learning Deployment:** Streamlit.
 
