@@ -8,22 +8,15 @@
 
 # 👋 Hello, World!
 
-I'm Mateo Contreras, an economist with a passion for data science and a knack for coding. Armed with a degree from Universidad de los Andes and a minor in public policy, I've transitioned into the realm of data analysis and now I am focused on mastering the art of data science.
+I'm Mateo Contreras, an economist with a passion for data science and an interest for coding.  I've transitioned into the realm of data analysis and now I am focused on mastering the art of data science.
 
 
 ## 🚀 What I Bring to the Table:
 Proficient in Python (TensorFlow, Keras, Scikit), R (caret), SQL, and SAS.
 
-Experienced in data modeling, process automation, and KPI improvement pilots.
+Experienced in data modeling, process automation, and data modelling.
 
-Certified Kaggle Intro to Deep Learning and Coursera's Working with Big Query.
-
-## 🔧 Tech Toolbox:
-TensorFlow, Keras, Scikit-learn for ML.
-
-R's caret package for robust analysis.
-
-SQL and SAS for data manipulation.
+Just finished IBM's Professional Data Science Certificate!
 
 Actively learning and implementing new methodologies for machine learning applications.
 
@@ -32,8 +25,15 @@ Actively learning and implementing new methodologies for machine learning applic
 
 [LinkedIn](https://www.linkedin.com/in/mateocontreras/)
 
+## 🏆 Competitions
+| Name   | Result | Team | Date |
+|--------|--------|------|------|
+| Regression with a Flood prediction dataset - Kaggle       |  Top 50%      |Solo      |  May - 2024    |
+
+
+** Notebooks available in the Competitions repository.
 ## 📚 What's Next:
-Always exploring, always learning. Currently diving deep into the IBM Data Science Professional Certificate.
+Always exploring, always learning.
 
 ## 💬 Let's Connect:
 Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
