@@ -37,8 +37,17 @@ Actively learning and implementing new methodologies for machine learning applic
 |--------|--------|------|------|
 | Regression with a Flood prediction dataset - Kaggle       |  Top 50%      |Solo      |  May - 2024    |
 
-
 ** Notebooks available in the Competitions repository.
+
+## 🎯  Projects
+
+| Name   | Result | Tech | Date |
+|--------|--------|------|------|
+| Transaction Fraud Detection       |  The predicting capabilities of the model led the company to earn up to 306MM USD in profit!.    | Polars, Scikit, XGBoost, Numpy.      |  July - 2024    |
+
+
+** Notebooks available in the Data Projects repository.
+
 ## 📚 What's Next:
 Always exploring, always learning.
 
