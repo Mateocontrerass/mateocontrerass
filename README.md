@@ -37,7 +37,7 @@ I'm Mateo Contreras — an economist turned data scientist working at the inters
 
 | Name                         | Impact / Result                                                                 | Tech Used                              | Date        |
 |------------------------------|----------------------------------------------------------------------------------|----------------------------------------|-------------|
-| **NYC Taxi Fare MLOps Pipeline** | End-to-end ML workflow using Airflow & MLflow for training and tracking models.  | Python, Airflow, MLflow, Scikit-learn  | June 2025   |
+| [NYC Taxi Duration Prediction](https://github.com/Mateocontrerass/NYC-Taxi-Duration-Prediction-An-Apache-Airflow-Project) | End-to-end MLOps pipeline with Airflow, MLflow, and a regression model predicting taxi trip durations. | Airflow, MLflow, Scikit-learn, Docker | June - 2025 |
 | **Transaction Fraud Detection** | Predicted fraudulent activity, potentially saving $306M in losses.               | Polars, Scikit-learn, XGBoost          | July 2024   |
 | **Flood Prediction (Kaggle)**   | Top 50% placement using regression techniques.                                 | Pandas, Scikit-learn, XGBoost          | May 2024    |
 
