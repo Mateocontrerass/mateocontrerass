@@ -8,70 +8,70 @@
 
 # 👋 Hello, World!
 
-I'm Mateo Contreras, an economist with a passion for data science and an interest for coding.  I've transitioned into the realm of data analysis and now I am focused on mastering the art of data science.
+I'm Mateo Contreras — an economist turned data scientist working at the intersection of credit risk and machine learning. I specialize in building predictive models that help financial institutions make smarter decisions.
 
 
-## 🚀 What I Bring to the Table:
 
-**Data processing and Analytics:** Jupyter Notebooks, Numpy and Pandas.
-
-**Development:** Python, R and Git.
-
-**Data Visualization:** Seaborn, Matplotlib, Power BI and Looker Studio.
-
-**Machine Learning Deployment:** Streamlit.
-
-**Machine Learning Modeling:** Classification, Regression, and diving into Neural Networks.
-
-Just finished IBM's Professional Data Science Certificate!
-
-Actively learning and implementing new methodologies for machine learning applications.
-
-## 🌐 Where to Find Me:
-[Portfolio Website](https://mateocontrerass.github.io/)
-
-[LinkedIn](https://www.linkedin.com/in/mateocontreras/)
-
-## 🏆 Competitions
-| Name   | Result | Team | Date |
-|--------|--------|------|------|
-| Regression with a Flood prediction dataset - Kaggle       |  Top 50%      |Solo      |  May - 2024    |
-
-** Notebooks available in the Competitions repository.
-
-## 🎯  Projects
-
-| Name   | Result | Tech | Date |
-|--------|--------|------|------|
-| Transaction Fraud Detection       |  The predicting capabilities of the model led the company to earn up to 306MM USD in profit!.    | Polars, Scikit, XGBoost, Numpy.      |  July - 2024    |
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/mateocontreras/)  
+📧 mateocontrerassilva@outlook.com
 
 
-** Notebooks available in the Data Projects repository.
 
-## 📚 What's Next:
-Always exploring, always learning.
+## 🧠 What I Work With
+**Data Processing & Analytics**: Pandas, Polars, NumPy, SAS  
+**Machine Learning**: Scikit-learn, XGBoost, TensorFlow, Keras  
+**MLOps & Deployment**: MLflow, Apache Airflow, Streamlit  
+**Data Visualization**: Matplotlib, Seaborn, Power BI, Looker Studio  
+**Development**: Python, Git
 
-## 💬 Let's Connect:
-Fluent in both English and Spanish, ready to collaborate on innovative data science projects.
 
-Excited to be part of the data-driven journey! Let's code something amazing together. 🚀
 
-## Some cool badges
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+## 📄 Certificates
+
+**IBM Data Science Professional Certificate**  
+
+
+
+## 📂 Projects
+
+| Name                         | Impact / Result                                                                 | Tech Used                              | Date        |
+|------------------------------|----------------------------------------------------------------------------------|----------------------------------------|-------------|
+| **NYC Taxi Fare MLOps Pipeline** | End-to-end ML workflow using Airflow & MLflow for training and tracking models.  | Python, Airflow, MLflow, Scikit-learn  | June 2025   |
+| **Transaction Fraud Detection** | Predicted fraudulent activity, potentially saving $306M in losses.               | Polars, Scikit-learn, XGBoost          | July 2024   |
+| **Flood Prediction (Kaggle)**   | Top 50% placement using regression techniques.                                 | Pandas, Scikit-learn, XGBoost          | May 2024    |
+
+_Notebooks available in the **Data Projects** and **Competitions** repositories._
+
+
+
+## 🧭 Currently Exploring
+
+Studying and working on the MLOps Certificate from DataTalks!
+
+## 💬 Let’s Build Something Great  
+Fluent in English and Spanish, open to collaboration and exploration in the world of data.
+
+
+## ⚙️ Tools & Tech Badges
+  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Airflow](https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+  ![MLflow](https://img.shields.io/badge/MLflow-02060A?style=for-the-badge&logo=mlflow&logoColor=white)
+  ![SAS](https://img.shields.io/badge/SAS-0278AA?style=for-the-badge&logo=sas&logoColor=white)
 
+## 📊 GitHub Stats
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateocontrerass)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateocontrerass)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact Info
-mateocontrerassilva@outlook.com
 
 
  <img src="https://komarev.com/ghpvc/?username=mateocontrerass&style=flat-square&color=blue" alt=""/>
-  
+
 
 
 
